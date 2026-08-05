@@ -1,0 +1,242 @@
+[
+    {
+        "Team Name":"Oklahoma City Thunder",
+        "W":"61",
+        "L":"16",
+        "WIN%":".792",
+        "REB":"44.2",
+        "AST":"25.4"
+    },
+    {
+        "Team Name":"San Antonio Spurs",
+        "W":"59",
+        "L":"19",
+        "WIN%":".756",
+        "REB":"47.1",
+        "AST":"28.0"
+    },
+    {
+        "Team Name":"Detroit Pistons",
+        "W":"57",
+        "L":"21",
+        "WIN%":".731",
+        "REB":"45.6",
+        "AST":"27.5"
+    },
+    {
+        "Team Name":"Boston Celtics",
+        "W":"53",
+        "L":"25",
+        "WIN%":".679",
+        "REB":"46.5",
+        "AST":"24.6"
+    },
+    {
+        "Team Name":"Los Angeles Lakers",
+        "W":"50",
+        "L":"27",
+        "WIN%":".649",
+        "REB":"41.0",
+        "AST":"25.4"
+    },
+    {
+        "Team Name":"Denver Nuggets",
+        "W":"50",
+        "L":"28",
+        "WIN%":".641",
+        "REB":"43.6",
+        "AST":"28.8"
+    },
+    {
+        "Team Name":"New York Knicks",
+        "W":"50",
+        "L":"28",
+        "WIN%":".641",
+        "REB":"46.0",
+        "AST":"27.5"
+    },
+    {
+        "Team Name":"Cleveland Cavaliers",
+        "W":"49",
+        "L":"29",
+        "WIN%":".628",
+        "REB":"44.3",
+        "AST":"28.3"
+    },
+    {
+        "Team Name":"Houston Rockets",
+        "W":"48",
+        "L":"29",
+        "WIN%":".623",
+        "REB":"48.0",
+        "AST":"25.4"
+    },
+    {
+        "Team Name":"Minnesota Timberwolves",
+        "W":"46",
+        "L":"31",
+        "WIN%":".597",
+        "REB":"44.6",
+        "AST":"26.1"
+    },
+    {
+        "Team Name":"Atlanta Hawks",
+        "W":"45",
+        "L":"33",
+        "WIN%":".577",
+        "REB":"43.4",
+        "AST":"30.3"
+    },
+    {
+        "Team Name":"Philadelphia 76ers",
+        "W":"43",
+        "L":"35",
+        "WIN%":".551",
+        "REB":"43.3",
+        "AST":"24.8"
+    },
+    {
+        "Team Name":"Phoenix Suns",
+        "W":"43",
+        "L":"35",
+        "WIN%":".551",
+        "REB":"43.0",
+        "AST":"24.9"
+    },
+    {
+        "Team Name":"Toronto Raptors",
+        "W":"43",
+        "L":"35",
+        "WIN%":".551",
+        "REB":"42.1",
+        "AST":"29.5"
+    },
+    {
+        "Team Name":"Charlotte Hornets",
+        "W":"42",
+        "L":"36",
+        "WIN%":".538",
+        "REB":"46.2",
+        "AST":"26.4"
+    },
+    {
+        "Team Name":"Orlando Magic",
+        "W":"41",
+        "L":"36",
+        "WIN%":".532",
+        "REB":"43.1",
+        "AST":"26.4"
+    },
+    {
+        "Team Name":"Miami Heat",
+        "W":"41",
+        "L":"37",
+        "WIN%":".526",
+        "REB":"46.6",
+        "AST":"28.7"
+    },
+    {
+        "Team Name":"Portland Trail Blazers",
+        "W":"40",
+        "L":"38",
+        "WIN%":".513",
+        "REB":"46.1",
+        "AST":"25.1"
+    },
+    {
+        "Team Name":"LA Clippers",
+        "W":"39",
+        "L":"38",
+        "WIN%":".506",
+        "REB":"40.5",
+        "AST":"23.7"
+    },
+    {
+        "Team Name":"Golden State Warriors",
+        "W":"36",
+        "L":"41",
+        "WIN%":".468",
+        "REB":"42.6",
+        "AST":"29.0"
+    },
+    {
+        "Team Name":"Milwaukee Bucks",
+        "W":"31",
+        "L":"47",
+        "WIN%":".397",
+        "REB":"40.7",
+        "AST":"25.7"
+    },
+    {
+        "Team Name":"Chicago Bulls",
+        "W":"29",
+        "L":"49",
+        "WIN%":".372",
+        "REB":"45.0",
+        "AST":"28.4"
+    },
+    {
+        "Team Name":"Memphis Grizzlies",
+        "W":"25",
+        "L":"53",
+        "WIN%":".321",
+        "REB":"42.3",
+        "AST":"27.9"
+    },
+    {
+        "Team Name":"New Orleans Pelicans",
+        "W":"25",
+        "L":"53",
+        "WIN%":".321",
+        "REB":"43.7",
+        "AST":"25.2"
+    },
+    {
+        "Team Name":"Dallas Mavericks",
+        "W":"24",
+        "L":"53",
+        "WIN%":".312",
+        "REB":"44.7",
+        "AST":"25.2"
+    },
+    {
+        "Team Name":"Sacramento Kings",
+        "W":"21",
+        "L":"57",
+        "WIN%":".269",
+        "REB":"42.1",
+        "AST":"25.6"
+    },
+    {
+        "Team Name":"Utah Jazz",
+        "W":"21",
+        "L":"57",
+        "WIN%":".269",
+        "REB":"43.6",
+        "AST":"29.4"
+    },
+    {
+        "Team Name":"Brooklyn Nets",
+        "W":"19",
+        "L":"59",
+        "WIN%":".244",
+        "REB":"39.4",
+        "AST":"25.2"
+    },
+    {
+        "Team Name":"Indiana Pacers",
+        "W":"18",
+        "L":"60",
+        "WIN%":".231",
+        "REB":"41.7",
+        "AST":"27.5"
+    },
+    {
+        "Team Name":"Washington Wizards",
+        "W":"17",
+        "L":"61",
+        "WIN%":".218",
+        "REB":"42.1",
+        "AST":"25.0"
+    }
+]
